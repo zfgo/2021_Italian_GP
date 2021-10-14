@@ -1,0 +1,6 @@
+/venv
+/.idea
+/2021/2021-09-05_Dutch_Grand_Prix/2021-09-05_Race
+*.ff1pkl
+*.sqlite
+path.txt
